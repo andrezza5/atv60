@@ -1,0 +1,18 @@
+//Funcionamento web - protocolo cliente x servidor
+
+O funcionamento web se dá por mensagem enviada pelo cliente através do software específico utilizado pelo mesmo, que envia a mensagem ao servidor, que com o seu software lhe permite receber a mensagem, interpreta-la e devolver a resposta para o cliente.
+
+//Segue abaixo começo de um projeto em Node.js
+
+//Para criação do projeto, foi aberto o terminal e através do comando "npm init" foi criado o arquivo package.json onde o estará toda configuração do projeto. Terminada a configuração, será aberto o arquivo padrão "index.js" e a partir disto, os comandos serão escritos, conforme abaixo:
+
+console.log(Alô mundo!");
+
+
+
+
+
+
+
+
+ 
